@@ -67,9 +67,6 @@ pip install -r requirements.txt
 # Run the tool
 python main.py
 ```
-pkg update && pkg upgrade
-pkg install p7zip
----
 
 ## 🔒 Tool Lock
 This tool is **locked by default**.  
