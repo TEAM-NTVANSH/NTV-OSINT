@@ -52,14 +52,14 @@ All inside **Termux/Linux terminal** with colorful interface.
 pkg update && pkg upgrade
 pkg install p7zip
 
-# Extract File
-7z x Osint.7z
-
 # Clone the repository
 git clone https://github.com/TEAM-NTVANSH/NTV-OSINT.git
 
 # Change directory
 cd Osint 
+
+# Extract File
+7z x Osint.7z
 
 # Install requirements
 pip install -r requirements.txt
