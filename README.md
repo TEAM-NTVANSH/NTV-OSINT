@@ -7,12 +7,17 @@
 ---
 
 ## 📺 Community & Socials  
-👉 Subscribe on YouTube: [TEAM-NTVANSH](https://youtube.com/@team-ntvansh?si=_c0aEadxkpNqCTby)  
-👉 Join us on Telegram Channel: [TEAM-NTVANSH](https://t.me/Team_NTVansh) 
-👉 Join us on Telegram Group: [TEAM-NTVANSH](https://t.me/NTVansh_18) 
-👉 Join us on WhatsApp Channel: [TEAM-NTVANSH](https://whatsapp.com/channel/0029VaaDWnrBadmaJKiFiL20) 
-👉 Join us on WhatsApp Group: [TEAM-NTVANSH](https://chat.whatsapp.com/HgSuFzvg8crB2I24H4RPhz?mode=ems_copy_t) 
-👉 Join us on Instagram: [VANSH](https://www.instagram.com/____vansh.jn?igsh=MWExdWhqOHgwb2g0Yw==) 
+👉 Subscribe on YouTube: [Youtube](https://youtube.com/@team-ntvansh?si=_c0aEadxkpNqCTby)  
+
+👉 Join us on Telegram Channel: [Telegram](https://t.me/Team_NTVansh) 
+
+👉 Join us on Telegram Group: [Telegram Group](https://t.me/NTVansh_18) 
+
+👉 Join us on WhatsApp Channel: [Whatshapp Channel](https://whatsapp.com/channel/0029VaaDWnrBadmaJKiFiL20) 
+
+👉 Join us on WhatsApp Group: [Whstshapp Group](https://chat.whatsapp.com/HgSuFzvg8crB2I24H4RPhz?mode=ems_copy_t) 
+
+👉 Join us on Instagram: [Instagram](https://www.instagram.com/____vansh.jn?igsh=MWExdWhqOHgwb2g0Yw==) 
 
 
 
@@ -61,7 +66,7 @@ python main.py
 ## 🔒 Tool Lock
 This tool is **locked by default**.  
 To unlock:
-1. Subscribe to [Hackers Colony Tech YouTube](https://youtube.com/@team-ntvansh?si=_c0aEadxkpNqCTby)  
+1. Subscribe to [TEAM-NTVANSH YouTube](https://youtube.com/@team-ntvansh?si=_c0aEadxkpNqCTby)  
 2. Press the **Bell Icon 🔔**  
 3. The tool will redirect you automatically.  
 
