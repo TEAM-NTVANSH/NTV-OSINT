@@ -49,7 +49,7 @@ All inside **Termux/Linux terminal** with colorful interface.
 
 ```bash
 # Clone the repository
-git clone 
+git clone https://github.com/TEAM-NTVANSH/NTV-OSINT.git
 
 # Change directory
 cd Osint 
