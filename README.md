@@ -72,7 +72,7 @@ python main.py
 ```
 ## One Cmd Installation 
 ```bash
-git clone https://github.com/TEAM-NTVANSH/NTV-OSINT.git && cd NTV-OSINT && bash install.sh
+git clone https://github.com/TEAM-NTVANSH/NTV-OSINT.git && cd NTV-OSINT && bash Install.sh
 ```
 ## 🔒 Tool Lock
 This tool is **locked by default**.  
