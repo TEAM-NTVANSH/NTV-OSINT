@@ -77,6 +77,13 @@ To unlock:
 
 ---
 
+## 🔑 Tool Key
+
+👉 The tool key is available on our official Telegram channel:  
+[✨ Join Team NTVansh ✨](https://t.me/Team_NTVansh)
+
+---
+
 ## ⚠️ Disclaimer
 This tool is made for **educational purposes only**.  
 I (Vansh / TEAM-NTVANSH) am **not responsible** for any misuse of this tool.  
