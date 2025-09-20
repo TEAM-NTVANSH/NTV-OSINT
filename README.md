@@ -56,7 +56,7 @@ pkg install p7zip
 git clone https://github.com/TEAM-NTVANSH/NTV-OSINT.git
 
 # Change directory
-cd Osint 
+cd NTV-OSINT
 
 # Extract File
 7z x Osint.7z
