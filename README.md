@@ -61,6 +61,9 @@ cd NTV-OSINT
 # Extract File
 7z x Osint.7z
 
+# Change directory
+cd Osint
+
 # Install requirements
 pip install -r requirements.txt
 
